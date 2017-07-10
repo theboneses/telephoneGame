@@ -46,7 +46,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\endScreenScript.cs" />
+     <Compile Include="Assets\enterScreenScript.cs" />
      <Compile Include="Assets\gameManagerScript.cs" />
+     <Compile Include="Assets\readScreenScript.cs" />
      <Compile Include="Assets\textGeneratorScript.cs" />
  <Reference Include="UnityEngine.Analytics">
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
